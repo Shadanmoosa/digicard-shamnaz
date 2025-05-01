@@ -1,6 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
+<<<<<<< HEAD
 FN:Afsal Orion Power Solutions
+=======
+FN:Advocate Afsal Orion Power Solutions
+>>>>>>> bed0c7f6c6d450122aca0bc350fb5bc3ad265f7d
 TEL;TYPE=CELL:+919496994407
 EMAIL:orionpowersolutions920@gmail.com
 END:VCARD
